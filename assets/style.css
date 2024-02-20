@@ -1,0 +1,14 @@
+.bg-black {
+    text-decoration: none;
+}
+
+.hov:hover {
+    box-shadow: 1px 1px 70px rgba(82, 82, 82, 0.7);
+    border: solid 3px #9b0430;
+    transition: box-shadow 7s transform 7s;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
